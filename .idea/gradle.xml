@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/mvpvolume" />
+            <option value="$PROJECT_DIR$/myalarmmanager" />
+            <option value="$PROJECT_DIR$/myasynctaskloader" />
+            <option value="$PROJECT_DIR$/mydeepnavigation" />
+            <option value="$PROJECT_DIR$/myfirebasedisparcher" />
+            <option value="$PROJECT_DIR$/mygmcnetworkmanager" />
+            <option value="$PROJECT_DIR$/myjobscheduler" />
+            <option value="$PROJECT_DIR$/myloader" />
+            <option value="$PROJECT_DIR$/mynotesapp" />
+            <option value="$PROJECT_DIR$/myrecyclerview" />
+            <option value="$PROJECT_DIR$/mytesttingapp" />
+            <option value="$PROJECT_DIR$/myviewandviews" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

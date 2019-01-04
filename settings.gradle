@@ -1,0 +1,1 @@
+include ':app', ':myalarmmanager', ':myjobscheduler', ':mygmcnetworkmanager', ':myfirebasedisparcher', ':mydeepnavigation', ':myloader', ':myasynctaskloader', ':mytesttingapp', ':mvpvolume', ':mynotesapp', ':myviewandviews', ':myrecyclerview'
